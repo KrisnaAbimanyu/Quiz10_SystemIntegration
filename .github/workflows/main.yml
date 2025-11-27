@@ -1,5 +1,5 @@
 # main.yml
-name: Python API CI/CD
+name: Python API CI/CD 
 # Trigger the workflow on push or pull request events
 on:
   push:
